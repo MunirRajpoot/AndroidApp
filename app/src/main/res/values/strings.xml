@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android App</string>
+    <string name="activity_welcome">Welcome</string>
+    <string name="logo_description">Logo of the app</string>
+    <string name="sign_up">Sign Up</string>
+    <!-- Add the missing hint strings -->
+    <string name="email_hint">Enter your email</string>
+    <string name="password_hint">Enter your password</string>
+</resources>
